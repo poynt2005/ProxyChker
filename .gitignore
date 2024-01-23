@@ -1,0 +1,23 @@
+# dirs
+ProxyChkerDemo
+obj
+bin
+Release
+Debug
+.vs
+x64
+node_modules
+
+# exts
+*.zip
+*.dll
+*.exp
+*.pdb
+*.lib
+*.exe
+*.tlb
+
+# files
+httprequest_i.c
+httprequest.tlb
+ProxyChker.sln
